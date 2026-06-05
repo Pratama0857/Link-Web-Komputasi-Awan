@@ -1,0 +1,8 @@
+{
+  "name": "CineDine - Cinema Concession Order",
+  "description": "Full-stack web application designed for on-seat movie theater snacks and beverages booking, integrated with a responsive AI Concession Butler & order progression system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
